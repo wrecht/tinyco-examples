@@ -12,6 +12,4 @@ terraform {
   }
 }
 
-provider "azuread" {
-  tenant_id = "d79ffdb3-8d8b-40bb-8d8f-dc1c901fd560"
-}
+provider "azuread" {}
