@@ -1,5 +1,5 @@
 type,name,members,role
 dept,ducks,ducks,
-pim-rbac,,"[itops|product|backend|people ops]","Billing Owner"
+pim-rbac,,"[itops|product|backend|people ops]","AI Administrator"
 app,Quack,"[itops|sre|security|legal]",
 pim-dept,frontend,frontend,
